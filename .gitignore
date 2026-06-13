@@ -1,0 +1,6 @@
+# Never publish the unencrypted photos or originals
+source_photos/
+*.HEIC
+*.heic
+*.docx
+.DS_Store
